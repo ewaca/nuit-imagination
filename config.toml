@@ -12,7 +12,7 @@ description = "Le site en 1 heure"
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "images/octocat.png"
+profilePicture = "https://www.fondation-flaubert.fr/sites/www.fondation-flaubert.fr/files/logo-le-dome-530.jpg"
 
 copyright = "CaenCamp"
 license = "CC BY-SA 4.0"
