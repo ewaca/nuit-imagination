@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/ewaca/nuit-imagination'
+baseURL = 'https://ewaca.github.io/nuit-imagination'
 languageCode = 'fr-fr'
 theme = 'soho'
 title = "Nuit de l'imaginaire"
